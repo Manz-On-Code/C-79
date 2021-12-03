@@ -1,0 +1,19 @@
+h3 {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#buttonsubmit {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+body { 
+background-color: aquamarine;
+}
+#buttonsort {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+    }
+input {
+margin: 10px;
+}
